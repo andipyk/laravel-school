@@ -10,11 +10,11 @@
 
 # Laravel Crud School
 
-![students1](public\img\students1.png)
+![students1](/public/img/students1.png)
 
-![students2](\public\img\students2.png)
+![students2](/public/img/students2.png)
 
-![students3](\public\img\students3.png)
+![students3](/public/img/students3.png)
 
 ## About Laravel
 
